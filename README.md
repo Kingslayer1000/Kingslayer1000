@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingslayer1000&label=Profile%20views&color=0e75b6&style=flat" alt="kingslayer1000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingslayer1000" alt="kingslayer1000" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingslayer1000" alt="kingslayer1000" width="500" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/eyeneelsharma" target="blank"><img src="https://img.shields.io/twitter/follow/eyeneelsharma?logo=twitter&style=for-the-badge" alt="eyeneelsharma" /></a> </p>
 
