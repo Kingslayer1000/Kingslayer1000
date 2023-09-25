@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neel Sharma</h1>
+<!--
 <h3 align="center">A Computer Science and Engineering undergrad currently working on improving my skills in various domains.</h3>
 <img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingslayer1000&label=Profile%20views&color=0e75b6&style=flat" alt="kingslayer1000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingslayer1000" alt="kingslayer1000" width="500" /></a> </p>
@@ -34,3 +36,4 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kingslayer1000&show_icons=true&locale=en" alt="kingslayer1000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingslayer1000&" alt="kingslayer1000" /></p>
+
